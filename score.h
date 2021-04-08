@@ -7,7 +7,7 @@
 //3. functions prototypes (aka function declaration)
 
 #define MAX 30
-
+//this is a comment
 void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
