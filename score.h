@@ -5,7 +5,7 @@
 //1. constant definiton (e.g., #define PI 3.145)
 //2. data structure definitons 
 //3. functions prototypes (aka function declaration)
-
+// Im leaving this comment from git hub last time!!
 #define MAX 30
 //this is a comment
 void input_scores(int[]);
